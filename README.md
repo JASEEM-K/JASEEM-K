@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on realtime chat app
+- 🔭 I’m currently working on Realtime chat app
 - 🌱 I’m currently learning socket.io
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
