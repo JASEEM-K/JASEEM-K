@@ -1,4 +1,5 @@
 ## Hi there 👋 Am Jaseem
+a Full Stack Developer 
 
 - 🔭 I’m currently working on Realtime chat app
 - 🌱 I’m currently learning socket.io
