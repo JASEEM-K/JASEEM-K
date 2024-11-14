@@ -1,6 +1,4 @@
-## Hi there 👋
-
-Here are some ideas to get you started:
+## Hi there 👋 Am Jaseem
 
 - 🔭 I’m currently working on Realtime chat app
 - 🌱 I’m currently learning socket.io
